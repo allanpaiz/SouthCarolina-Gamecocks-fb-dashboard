@@ -60,3 +60,9 @@ def game_logs(base_url):
 
     game_logs = {'Table Names': headers[0:2], 'Over Headers': over_header, 'Headers': poptip, 'Game': gameid, 'Offense Data': offense, 'Defense Data': defense}
     return game_logs
+
+def single_team(base_url):
+    teaminfo = team_info(base_url)
+    overallstats = ovr_team_stats(base_url)
+    gamelogs = game_logs(base_url)
+    return {'Team Info': teaminfo, 'Overall Stats': overallstats, 'Game Logs': gamelogs}

@@ -2,6 +2,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 from bs4 import BeautifulSoup
+import json
 
 def download_logo(url, filename):
     response = requests.get(url)
@@ -19,6 +20,10 @@ def clean_defense(data):
 
 def make_nested_list(data, n):
     return [data[i:i+n] for i in range(0, len(data), n)]
+
+def store_data(data, file_name):
+    with open(file_name, 'w') as outfile:
+        json.dump(data, outfile)
 
 schedule = [
     (1, 'Sat Sep 2', 'vsNorth Carolina', 'https://www.sports-reference.com/cfb/schools/north-carolina/2022.html'),

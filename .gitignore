@@ -1,20 +1,24 @@
-# Virtual environment
+
 venv/
 
-# Python compiled files
+
 *.pyc
+*.pyo
 __pycache__/
 
-# Flask environment
+*.egg-info/
+dist/
+build/
+
 instance/
 .pytest_cache/
 .env
 env/
 
-# IDE files
+
 .vscode/
 .idea/
 
-# Miscellaneous
+
 .DS_Store
 *.sqlite3

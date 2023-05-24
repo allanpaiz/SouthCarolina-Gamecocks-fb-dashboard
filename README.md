@@ -34,11 +34,14 @@ cd SouthCarolina-Gamecocks-fb-dashboard
 python scraper/scraper_main.py
 ```
 
+***
+
 ## Updates
 Weekly Updates (Sorted by Most Recent):
 1. [May 24, 2023](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard#may-24-2023)
 2. [May 18, 2023 - First Update](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard#may-18-2023---first-update)
 
+***
 
 ### May 18, 2023 - First Update.
 I should have started this update thing a while ago. But here we are. 
@@ -54,6 +57,8 @@ I should have started this update thing a while ago. But here we are.
 
 ![ppg_sos](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard/blob/main/vis/FirstDraft/ppg_sos.png)
 
+***
+
 ### May 24, 2023
 - General : This week has been slow in terms of progress, and it will slow down signinficantly this coming week. Which is why I am posting a day eariler. A lot of time was spent refactoring and rethinking some things for the scraper portion of this project. I finished what I'm calling the 'skeleton' of the analysis portion. Happy with my approach, although it may not be the smartest approach. 
 
@@ -67,6 +72,7 @@ I should have started this update thing a while ago. But here we are.
 - As mentioned above my analysis portion of this project in terms of the basework is complete. There's a lot of things that need to be revisited or re-worked. But I know I have good foundation, for when I come back and start prepping everything for the dashboard. 
 
 This is what the analysis outputs currently, in a terminal. I'm happy with how its comming along so far, it may not seem like a lot and thats by design, but behind the scenes a lot has gone into this output. 
+
 ![analysis_draft](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard/blob/main/vis/FirstDraft/analysis_draft.png)
 
 ### Next Steps

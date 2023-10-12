@@ -12,13 +12,6 @@ This project requires the following libraries:
 - Flask
 - requests
 
-To install the dependencies, run the following command:
-
-```
-pip install -r requirements.txt
-```
-
-
 ## Setup
 
 1. Clone the repository:

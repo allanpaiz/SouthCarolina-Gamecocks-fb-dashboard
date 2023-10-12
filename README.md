@@ -37,6 +37,9 @@ python scraper/scraper_main.py
 ***
 
 ## Updates
+
+October 12 2023 : Moving across the country, buying my first home, starting at my new school, and adjusting to my new life out here has put a massive hault on this project. One which I do intend to finish, or 'wrap up' as a portfolio projects, as I progress in my computer science/ sports research career.
+
 Weekly Updates (Sorted by Most Recent):
 1. [May 24, 2023](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard#may-24-2023)
 2. [May 18, 2023 - First Update](https://github.com/allanpaiz/SouthCarolina-Gamecocks-fb-dashboard#may-18-2023---first-update)

@@ -1,5 +1,8 @@
 # South Carolina Gamecocks Football Dashboard
 
+Update:
+November 10 2023: Still haven't worked on this, I know its here, but I got something else cooking that has a deadline. I plan on comming back to this sometime after Jan 2024.
+
 An interactive dashboard for visualizing and analyzing football statistics for the University of South Carolina Gamecocks, built using Python, Plotly, and Flask.
 
 ## Dependencies
